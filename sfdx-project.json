@@ -5,7 +5,8 @@
       "default": true,
       "package": "FormulaForce App",
       "versionName": "ver 0.1",
-      "versionNumber": "0.1.0.NEXT"
+      "versionNumber": "0.1.0.NEXT",
+      "ancestorId": "04t8d000000t2t3AAA"
     }
   ],
   "name": "formulaforce",
