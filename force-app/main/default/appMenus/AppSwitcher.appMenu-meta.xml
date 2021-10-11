@@ -64,4 +64,8 @@
         <name>fforcedvy__Race_Management</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>fforcedvy__Race_Analytics</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
